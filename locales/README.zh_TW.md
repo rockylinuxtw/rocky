@@ -69,7 +69,7 @@ Rocky Linux 的目標是扮演之前 CentOS 的角色，而不是像 CentOS Stre
 
 如果您是開發者、架構師、工程師或是想要貢獻自己時間與精力，請考慮加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 並加入和自己興趣最相符的頻道參與討論。
 
-如果你希望贊助本專案，請來信到 hello@rockylinux.org。
+如果您希望贊助本專案，請來信到 hello@rockylinux.org。
 
 **注意**：我們目前**沒有**任何官方的群眾募資計畫。
 
