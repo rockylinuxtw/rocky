@@ -21,9 +21,9 @@ CentOS 專案[最近宣佈](https://blog.centos.org/2020/12/future-is-centos-str
 
 除此之外，CentOS 8 的生命週期也從 2029 年 5 月 31 日被縮短到 2021 年 12 月 31 日。
 
-> **Q:** 所以 Rocky Linux 會扮演什麼樣的角色？
+> **Q:** Rocky Linux 為何而生？
 
-Rocky Linux 的目標是扮演之前 CentOS 的角色，而不是像 CentOS Stream 一樣成為 RHEL 的前測版本。
+Rocky Linux 的目標是延續 CentOS 先前的模式釋出發行版，而不是像 CentOS Stream 一樣成為 RHEL 的前測版本。
 
 > **Q:** 什麼時間會釋出發行版呢？
 
